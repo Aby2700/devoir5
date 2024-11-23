@@ -4,7 +4,7 @@
 #include <pthread.h>
 #include <sys/types.h>
 #include <semaphore.h>
-int comptprincipal  = 0,comptsecondaire = 0;
+
 int i =1;
 sem_t sem;
 
